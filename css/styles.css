@@ -1,0 +1,21 @@
+.nav_0:hover{
+  color: #fff;
+   background-color: #0d6efd;
+ border-radius: 0.25rem;
+   text-decoration: none !important;
+}
+
+.nav_a:hover{
+  color: white !important;
+  text-decoration: none !important;
+
+}
+
+h5{
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+p{
+  font-family: "Montserrat";
+}
